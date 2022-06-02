@@ -20,7 +20,7 @@
 
 </div>
 
-## About; 
+## 📚 About; 
 Python is a high-level, scripting, imperative, object-oriented, functional, dynamically typed, and strong programming language. <br>
 Python is an extremely simple and versatile programming language, because, as its syntax is modern and objective, it was designed for developers to write instructions with fewer lines of code. <br>
 In this case, because it is easy to understand, it was a language that gained popularity among companies due to its lean code. In addition, it has a large number of libraries available to assist in our daily lives, and it has a large community of developers.
@@ -29,6 +29,6 @@ In this case, because it is easy to understand, it was a language that gained po
 Each folder corresponds to a bootcamp day. Each folder contains a README file explaining what went inside and what technologies and libraries were used.
 
 ## ⏰ Day to day 
-- Day 1: Work with Variables in Python to Manage Data
+- Day 1: Work with Variables in Python to Manage Data;
 - Day 2: Understanding Data Types and How to Manipulate Strings;
 

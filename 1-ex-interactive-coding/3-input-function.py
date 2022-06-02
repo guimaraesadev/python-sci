@@ -3,5 +3,9 @@
 
 #input: sabrina #output: 7 
 
-input("Whats your name?")
+# len() function
+
+print(len(input("What's your name? ")))
+
+
 
