@@ -12,7 +12,8 @@ print(" Hi. \n My name is Sabrina! \n And you?")
 #concatenate 
 
 print("Hello" + " " + "Sabrina") 
-
+print("Hello" + " " + "Some name") 
+# debugging code 
 
 
 
